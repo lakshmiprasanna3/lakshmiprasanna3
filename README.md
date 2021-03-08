@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lakshmiprasanna3](https://github.com/lakshmiprasanna3)
 
-- 💬 Ask me about **#Android,#Java,#DataStructures**
+- 💬 Ask me about **#Android #Java #DataStructures**
 
 - 📫 How to reach me **coffeecodes33@gmail.com**
 
