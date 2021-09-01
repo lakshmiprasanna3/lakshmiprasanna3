@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Prasanna</h1>
-<h3 align="center">A passionate Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmiprasanna3&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmiprasanna3" /> </p>
 
@@ -8,13 +7,9 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on [instagram](https://www.instagram.com/coffeecodes__/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/lakshmiprasanna3](https://github.com/lakshmiprasanna3)
 
-- 💬 Ask me about **#Android #Java #DataStructures**
-
-- 📫 How to reach me **coffeecodes33@gmail.com**
 
 - ⚡ Fun fact **^_^**
 
