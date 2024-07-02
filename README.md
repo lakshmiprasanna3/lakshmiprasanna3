@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/45752419/110270341-9d6adb00-7feb-11eb-80a0-1d90cf85a610.png">
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Spring Boot**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/lakshmiprasanna3](https://github.com/lakshmiprasanna3)
